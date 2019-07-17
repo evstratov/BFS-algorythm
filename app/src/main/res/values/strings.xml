@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BFS_example1</string>
+    <string name="task_text">Задача: найти среди друзей продавца манго</string>
+</resources>
